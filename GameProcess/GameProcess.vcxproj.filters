@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Manager">
+      <UniqueIdentifier>{e85b7eff-d0f5-457e-94f5-357cb5638067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\SceneManager">
+      <UniqueIdentifier>{c14bca6a-9aba-42e3-afb9-8cbfb2344ab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\SceneManager\Scene">
+      <UniqueIdentifier>{be9c8806-5ef6-461f-b476-8379fd9fc718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\test">
+      <UniqueIdentifier>{d8406b6a-7641-47b9-b4f1-294eae335503}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\SingletonManager">
+      <UniqueIdentifier>{5abe51a3-12e8-4ad5-a4a7-0c560e342568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\SingletonManager\TimeManager">
+      <UniqueIdentifier>{ed98def3-598c-4516-9325-086c5a32cd8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\SingletonManager\InputManager">
+      <UniqueIdentifier>{c37f2790-0f5d-49f6-9187-330480f46397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\SingletonManager\Random">
+      <UniqueIdentifier>{d19f4be7-6627-422a-b84c-e163c98c1640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Manager\SingletonManager\SoundManager">
+      <UniqueIdentifier>{a90e7d08-b0ed-4ded-b3ca-d2420e52f7d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameProcess.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>소스 파일\Manager\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>소스 파일\Manager\SceneManager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeManager.h">
+      <Filter>소스 파일\Manager\SingletonManager\TimeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="IManager.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>소스 파일\Manager\SingletonManager\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonManager.h">
+      <Filter>소스 파일\Manager\SingletonManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>소스 파일\Manager\SingletonManager\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>소스 파일\Manager\SingletonManager\SoundManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameProcess.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>소스 파일\Manager\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeManager.cpp">
+      <Filter>소스 파일\Manager\SingletonManager\TimeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>소스 파일\Manager\SingletonManager\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SingletonManager.cpp">
+      <Filter>소스 파일\Manager\SingletonManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>소스 파일\Manager\SingletonManager\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>소스 파일\Manager\SingletonManager\SoundManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

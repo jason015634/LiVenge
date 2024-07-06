@@ -1,0 +1,556 @@
+[
+  {
+    "1": [
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 1,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 4,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 5,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 8,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 9,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 8,
+        "y": 2
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 9,
+        "y": 2
+      }
+    ],
+    "2": [
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 204,
+        "unit_imageName": "Enemy_Ballista.png",
+        "x": 1,
+        "y": 0
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 2,
+        "y": 0
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 7,
+        "y": 0
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 204,
+        "unit_imageName": "Enemy_Ballista.png",
+        "x": 8,
+        "y": 0
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 1,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 2,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 7,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 8,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 203,
+        "unit_imageName": "Enemy_qqq.png",
+        "x": 4,
+        "y": 2
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 5,
+        "y": 2
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 7,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 8,
+        "y": 3
+      }
+    ],
+    "3": [
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 204,
+        "unit_imageName": "Enemy_Ballista.png",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 204,
+        "unit_imageName": "Enemy_Ballista.png",
+        "x": 9,
+        "y": 0
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 1,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 3,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 203,
+        "unit_imageName": "Enemy_qqq.png",
+        "x": 4,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 203,
+        "unit_imageName": "Enemy_qqq.png",
+        "x": 5,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 6,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 8,
+        "y": 1
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 202,
+        "unit_imageName": "Enemy_Arrow.png",
+        "x": 9,
+        "y": 2
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 0,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 205,
+        "unit_imageName": "debuff_tower.png",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 3,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 6,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 205,
+        "unit_imageName": "debuff_tower.png",
+        "x": 7,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 8,
+        "y": 3
+      },
+      {
+        "obj_id": 0,
+        "obj_imageName": "",
+        "unit_id": 201,
+        "unit_imageName": "Enemy_Sword.png",
+        "x": 9,
+        "y": 3
+      }
+    ]
+  },
+  [
+    {
+      "": {
+        "obj_id": 0,
+        "obj_name": "",
+        "obj_teamID": 3
+      }
+    }
+  ],
+  [
+    {
+      "Enemy_qqq.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 35,
+        "unit_defense": 10,
+        "unit_hp": 150,
+        "unit_id": 203,
+        "unit_moveSp": 2,
+        "unit_teamID": 0
+      }
+    },
+    {
+      "ddd.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 20,
+        "unit_defense": 0,
+        "unit_hp": 80,
+        "unit_id": 115,
+        "unit_moveSp": 1,
+        "unit_teamID": 1
+      }
+    },
+    {
+      "Enemy_Arrow.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 40,
+        "unit_defense": 5,
+        "unit_hp": 100,
+        "unit_id": 202,
+        "unit_moveSp": 1,
+        "unit_teamID": 2
+      }
+    },
+    {
+      "debuff_tower.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 0,
+        "unit_defense": 10,
+        "unit_hp": 300,
+        "unit_id": 205,
+        "unit_moveSp": 0,
+        "unit_teamID": 2
+      }
+    },
+    {
+      "Enemy_Ballista.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 35,
+        "unit_defense": 10,
+        "unit_hp": 150,
+        "unit_id": 204,
+        "unit_moveSp": 0,
+        "unit_teamID": 2
+      }
+    },
+    {
+      "Enemy_Sword.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 25,
+        "unit_defense": 5,
+        "unit_hp": 100,
+        "unit_id": 201,
+        "unit_moveSp": 1,
+        "unit_teamID": 2
+      }
+    },
+    {
+      "Summoner_Sohwan.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 0,
+        "unit_defense": 0,
+        "unit_hp": 100,
+        "unit_id": 105,
+        "unit_moveSp": 0,
+        "unit_teamID": 1
+      }
+    },
+    {
+      "Team_Arrow_Face.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 40,
+        "unit_defense": 5,
+        "unit_hp": 100,
+        "unit_id": 102,
+        "unit_moveSp": 1,
+        "unit_teamID": 1
+      }
+    },
+    {
+      "Team_Drain.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 30,
+        "unit_defense": 0,
+        "unit_hp": 250,
+        "unit_id": 103,
+        "unit_moveSp": 2,
+        "unit_teamID": 2
+      }
+    },
+    {
+      "team_Sword_face.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 35,
+        "unit_defense": 5,
+        "unit_hp": 150,
+        "unit_id": 101,
+        "unit_moveSp": 0,
+        "unit_teamID": 1
+      }
+    },
+    {
+      "Team_Tile.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 50,
+        "unit_defense": 5,
+        "unit_hp": 100,
+        "unit_id": 104,
+        "unit_moveSp": 1,
+        "unit_teamID": 1
+      }
+    },
+    {
+      "ummoner_move.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 0,
+        "unit_defense": 5,
+        "unit_hp": 100,
+        "unit_id": 105,
+        "unit_moveSp": 0,
+        "unit_teamID": 1
+      }
+    }
+  ],
+  {
+    "m_TileColorMap_One": {
+      "1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "m_TileColorMap_Two": {
+      "1": [
+        0.5,
+        0.5,
+        0.6000000238418579,
+        1.0
+      ],
+      "2": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "3": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    "m_gridColsMap": {
+      "1": 10,
+      "2": 10,
+      "3": 10
+    },
+    "m_gridRowsMap": {
+      "1": 10,
+      "2": 10,
+      "3": 10
+    }
+  },
+  {
+    "m_maxRound": 1
+  }
+]

@@ -1,0 +1,658 @@
+[
+  {
+    "1": [
+      {
+        "obj_id": 201,
+        "obj_imageName": "",
+        "unit_id": 10,
+        "unit_imageName": "worrier.png",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "obj_id": 202,
+        "obj_imageName": "",
+        "unit_id": 10,
+        "unit_imageName": "worrier.png",
+        "x": 1,
+        "y": 0
+      },
+      {
+        "obj_id": 203,
+        "obj_imageName": "",
+        "unit_id": 10,
+        "unit_imageName": "worrier.png",
+        "x": 2,
+        "y": 0
+      },
+      {
+        "obj_id": 201,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "obj_id": 203,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 1,
+        "y": 1
+      }
+    ],
+    "2": [
+      {
+        "obj_id": 201,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 2,
+        "y": 0
+      },
+      {
+        "obj_id": 204,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 1,
+        "y": 1
+      },
+      {
+        "obj_id": 205,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 2,
+        "y": 1
+      }
+    ],
+    "3": [
+      {
+        "obj_id": 204,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 2,
+        "y": 0
+      },
+      {
+        "obj_id": 204,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 3,
+        "y": 0
+      },
+      {
+        "obj_id": 204,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 1,
+        "y": 1
+      },
+      {
+        "obj_id": 201,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 3,
+        "y": 1
+      },
+      {
+        "obj_id": 20,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "obj_id": 20,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 2,
+        "y": 2
+      },
+      {
+        "obj_id": 20,
+        "obj_imageName": "archer.png",
+        "unit_id": 0,
+        "unit_imageName": "",
+        "x": 3,
+        "y": 2
+      }
+    ]
+  },
+  [
+    {
+      "ballista.png": {
+        "obj_id": 0,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          98,
+          97,
+          108,
+          108,
+          105,
+          115,
+          116,
+          97,
+          46,
+          112,
+          110,
+          103
+        ],
+        "obj_name": "ballista.png",
+        "obj_teamID": 0
+      }
+    },
+    {
+      "11.jpg": {
+        "obj_id": 0,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          49,
+          49,
+          46,
+          106,
+          112,
+          103
+        ],
+        "obj_name": "11.jpg",
+        "obj_teamID": 0
+      }
+    },
+    {
+      "archer.png": {
+        "obj_id": 20,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          97,
+          114,
+          99,
+          104,
+          101,
+          114,
+          46,
+          112,
+          110,
+          103
+        ],
+        "obj_name": "archer.png",
+        "obj_teamID": 20
+      }
+    },
+    {
+      "pika.png": {
+        "obj_id": 0,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          112,
+          105,
+          107,
+          97,
+          46,
+          112,
+          110,
+          103
+        ],
+        "obj_name": "pika.png",
+        "obj_teamID": 0
+      }
+    },
+    {
+      "pika1.png": {
+        "obj_id": 0,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          112,
+          105,
+          107,
+          97,
+          49,
+          46,
+          112,
+          110,
+          103
+        ],
+        "obj_name": "pika1.png",
+        "obj_teamID": 0
+      }
+    },
+    {
+      "TestImage.png": {
+        "obj_id": 0,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          84,
+          101,
+          115,
+          116,
+          73,
+          109,
+          97,
+          103,
+          101,
+          46,
+          112,
+          110,
+          103
+        ],
+        "obj_name": "TestImage.png",
+        "obj_teamID": 0
+      }
+    },
+    {
+      "pika2.png": {
+        "obj_id": 0,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          112,
+          105,
+          107,
+          97,
+          50,
+          46,
+          112,
+          110,
+          103
+        ],
+        "obj_name": "pika2.png",
+        "obj_teamID": 0
+      }
+    },
+    {
+      "qweqwe.png": {
+        "obj_id": 0,
+        "obj_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          79,
+          98,
+          106,
+          95,
+          114,
+          115,
+          99,
+          47,
+          113,
+          119,
+          101,
+          113,
+          119,
+          101,
+          46,
+          112,
+          110,
+          103
+        ],
+        "obj_name": "qweqwe.png",
+        "obj_teamID": 0
+      }
+    },
+    {
+      "": {
+        "obj_id": 0,
+        "obj_imgPath": [],
+        "obj_name": "",
+        "obj_teamID": 3
+      }
+    }
+  ],
+  [
+    {
+      "worrier.png": {
+        "lifeCost": 10,
+        "manaCost": 10,
+        "unit_atk": 10,
+        "unit_defense": 10,
+        "unit_hp": 10,
+        "unit_id": 10,
+        "unit_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          85,
+          110,
+          105,
+          116,
+          95,
+          114,
+          115,
+          99,
+          47,
+          119,
+          111,
+          114,
+          114,
+          105,
+          101,
+          114,
+          46,
+          112,
+          110,
+          103
+        ],
+        "unit_moveSp": 10,
+        "unit_teamID": 10
+      }
+    },
+    {
+      "Human.jpeg": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 0,
+        "unit_defense": 0,
+        "unit_hp": 0,
+        "unit_id": 0,
+        "unit_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          85,
+          110,
+          105,
+          116,
+          95,
+          114,
+          115,
+          99,
+          47,
+          72,
+          117,
+          109,
+          97,
+          110,
+          46,
+          106,
+          112,
+          101,
+          103
+        ],
+        "unit_moveSp": 0,
+        "unit_teamID": 0
+      }
+    },
+    {
+      "zxcczxczx.png": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 0,
+        "unit_defense": 0,
+        "unit_hp": 0,
+        "unit_id": 0,
+        "unit_imgPath": [
+          46,
+          46,
+          92,
+          82,
+          101,
+          115,
+          111,
+          117,
+          114,
+          99,
+          101,
+          47,
+          85,
+          110,
+          105,
+          116,
+          95,
+          114,
+          115,
+          99,
+          47,
+          122,
+          120,
+          99,
+          99,
+          122,
+          120,
+          99,
+          122,
+          120,
+          46,
+          112,
+          110,
+          103
+        ],
+        "unit_moveSp": 0,
+        "unit_teamID": 0
+      }
+    },
+    {
+      "": {
+        "lifeCost": 0,
+        "manaCost": 0,
+        "unit_atk": 0,
+        "unit_defense": 0,
+        "unit_hp": 0,
+        "unit_id": 0,
+        "unit_imgPath": [],
+        "unit_moveSp": 0,
+        "unit_teamID": 0
+      }
+    }
+  ],
+  {
+    "m_TileColorMap_One": {
+      "1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "2": [
+        0.4950980544090271,
+        0.16260573267936707,
+        0.16260573267936707,
+        1.0
+      ],
+      "3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "m_TileColorMap_Two": {
+      "1": [
+        0.5,
+        0.5,
+        0.6000000238418579,
+        1.0
+      ],
+      "2": [
+        0.1037101000547409,
+        0.11262643337249756,
+        0.406862735748291,
+        1.0
+      ],
+      "3": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ]
+    },
+    "m_gridColsMap": {
+      "1": 10,
+      "2": 10,
+      "3": 10
+    },
+    "m_gridRowsMap": {
+      "1": 10,
+      "2": 10,
+      "3": 10
+    }
+  },
+  {
+    "m_maxRound": 1
+  }
+]

@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BattleInfo.cpp" />
+    <ClCompile Include="BattleSystem.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CameraScript.cpp" />
+    <ClCompile Include="DataManager.cpp" />
+    <ClCompile Include="GameApp.cpp" />
+    <ClCompile Include="GameStartButton.cpp" />
+    <ClCompile Include="LogicAnimation.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="ReRollButton.cpp" />
+    <ClCompile Include="ShopLevelUpButton.cpp" />
+    <ClCompile Include="TestScene3.cpp" />
+    <ClCompile Include="Tile.cpp" />
+    <ClCompile Include="ShopSystem.cpp" />
+    <ClCompile Include="TestScene.cpp" />
+    <ClCompile Include="TestScene2.cpp" />
+    <ClCompile Include="TestUnit.cpp" />
+    <ClCompile Include="TileManager.cpp" />
+    <ClCompile Include="TileObject.cpp" />
+    <ClCompile Include="UnitFactory.cpp" />
+    <ClCompile Include="UnitStatus.cpp" />
+    <ClCompile Include="WoodenFence.cpp" />
+    <ClCompile Include="MouseDragging.cpp" />
+    <ClCompile Include="MouseDragSys.cpp" />
+    <ClCompile Include="TestUnitUI.cpp" />
+    <ClCompile Include="Unit.cpp" />
+    <ClCompile Include="DefaultFSM.cpp">
+      <Filter>DefaultFSM\FiniteStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultIdle.cpp">
+      <Filter>DefaultFSM\State\Idle</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultMove.cpp">
+      <Filter>DefaultFSM\State\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultAttack.cpp">
+      <Filter>DefaultFSM\State\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultDeath.cpp">
+      <Filter>DefaultFSM\State\Death</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleScript.cpp" />
+    <ClCompile Include="UnitFactoryUI.cpp" />
+    <ClCompile Include="UnitCard.cpp" />
+    <ClCompile Include="Shop.cpp" />
+    <ClCompile Include="TitleScene.cpp" />
+    <ClCompile Include="HpBar.cpp" />
+    <ClCompile Include="ManaBar.cpp" />
+    <ClCompile Include="SoundMgr.cpp" />
+    <ClCompile Include="AttackObject.cpp" />
+    <ClCompile Include="AttackObjectFactory.cpp" />
+    <ClCompile Include="EditButton.cpp" />
+    <ClCompile Include="GameEndButton.cpp" />
+    <ClCompile Include="BattleField.cpp" />
+    <ClCompile Include="SellButton.cpp" />
+    <ClCompile Include="Shop2.cpp" />
+    <ClCompile Include="Shop3.cpp" />
+    <ClCompile Include="RoundScene1.cpp">
+      <Filter>Round\1</Filter>
+    </ClCompile>
+    <ClCompile Include="RoundBase.cpp">
+      <Filter>Round</Filter>
+    </ClCompile>    <ClCompile Include="UnitStatUI.cpp" />
+    <ClCompile Include="UnitStatFactory.cpp" />  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BattleInfo.h" />
+    <ClInclude Include="BattleSystem.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CameraScript.h" />
+    <ClInclude Include="ComponentList.h" />
+    <ClInclude Include="CustomComponent.h" />
+    <ClInclude Include="DataContainer.h" />
+    <ClInclude Include="DataManager.h" />
+    <ClInclude Include="Entity.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="GameApp.h" />
+    <ClInclude Include="GameStartButton.h" />
+    <ClInclude Include="LogicAnimation.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="ReRollButton.h" />
+    <ClInclude Include="ShopLevelUpButton.h" />
+    <ClInclude Include="TestScene3.h" />
+    <ClInclude Include="Tile.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="Script.h" />
+    <ClInclude Include="ShopSystem.h" />
+    <ClInclude Include="System.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TestScene.h" />
+    <ClInclude Include="TestScene2.h" />
+    <ClInclude Include="TestUnit.h" />
+    <ClInclude Include="TileManager.h" />
+    <ClInclude Include="TileObject.h" />
+    <ClInclude Include="UnitFactory.h" />
+    <ClInclude Include="UnitList.h" />
+    <ClInclude Include="UnitStatus.h" />
+    <ClInclude Include="WoodenFence.h" />
+    <ClInclude Include="BattleSystem.h">
+      <Filter>소스 파일\CustomSystem\BattleSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopSystem.h">
+      <Filter>소스 파일\CustomSystem\ShopSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleInfo.h">
+      <Filter>소스 파일\CustomComponent\BattleInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>소스 파일\Prefab\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraScript.h">
+      <Filter>소스 파일\Prefab\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameApp.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomComponent.h">
+      <Filter>헤더 파일\Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="Script.h">
+      <Filter>헤더 파일\Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>헤더 파일\Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>헤더 파일\Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="DataContainer.h">
+      <Filter>소스 파일\Manager\DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DataManager.h">
+      <Filter>소스 파일\Manager\DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene2.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene3.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="TestUnit.h">
+      <Filter>소스 파일\Prefab\TestUnit</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitStatus.h">
+      <Filter>소스 파일\CustomComponent\UnitStatus</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>소스 파일\Prefab\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>소스 파일\Prefab\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStartButton.h">
+      <Filter>소스 파일\Prefab\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="ReRollButton.h">
+      <Filter>소스 파일\Prefab\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopLevelUpButton.h">
+      <Filter>소스 파일\Prefab\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="TileManager.h">
+      <Filter>소스 파일\CustomSystem\TileManager</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitFactory.h">
+      <Filter>소스 파일\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>소스 파일\CustomComponent\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="TileObject.h">
+      <Filter>소스 파일\Prefab\TIleObject</Filter>
+    </ClInclude>
+    <ClInclude Include="TestUnitUI.h" />
+    <ClInclude Include="MouseDragging.h" />
+    <ClInclude Include="MouseDragSys.h" />
+    <ClInclude Include="Unit.h" />
+    <ClInclude Include="DefaultFSM.h">
+      <Filter>DefaultFSM\FiniteStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultIdle.h">
+      <Filter>DefaultFSM\State\Idle</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultMove.h">
+      <Filter>DefaultFSM\State\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultAttack.h">
+      <Filter>DefaultFSM\State\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultDeath.h">
+      <Filter>DefaultFSM\State\Death</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleScript.h" />
+    <ClInclude Include="UnitFactoryUI.h" />
+    <ClInclude Include="UnitCard.h" />
+    <ClInclude Include="Shop.h" />
+    <ClInclude Include="TitleScene.h" />
+    <ClInclude Include="HpBar.h" />
+    <ClInclude Include="ManaBar.h" />
+    <ClInclude Include="SoundMgr.h" />
+    <ClInclude Include="AttackObject.h" />
+    <ClInclude Include="AttackObjectFactory.h" />
+    <ClInclude Include="EditButton.h" />
+    <ClInclude Include="GameEndButton.h" />
+    <ClInclude Include="BattleField.h" />
+    <ClInclude Include="SellButton.h" />
+    <ClInclude Include="Shop2.h" />
+    <ClInclude Include="Shop3.h" />
+    <ClInclude Include="RoundScene1.h">
+      <Filter>Round\1</Filter>
+    </ClInclude>
+    <ClInclude Include="RoundBase.h">
+      <Filter>Round</Filter>
+    </ClInclude>    <ClInclude Include="UnitStatUI.h" />
+    <ClInclude Include="UnitStatFactory.h" />  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GameApp.ico" />
+    <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GameApp.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GameApp.ico" />
+    <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DefaultFSM">
+      <UniqueIdentifier>{7b1d1990-5fe7-4189-a637-08d76062744e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DefaultFSM\FiniteStateMachine">
+      <UniqueIdentifier>{60ebcb08-4eba-4d59-9757-c22690a2feed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DefaultFSM\State">
+      <UniqueIdentifier>{a9312fdb-2ad3-49d5-8425-849d4e290464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DefaultFSM\State\Idle">
+      <UniqueIdentifier>{c46c2af3-b8ae-4fdf-84c0-c18aedd83c18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DefaultFSM\State\Move">
+      <UniqueIdentifier>{9d2037ed-edaa-4a81-84c2-ebbe18d85091}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DefaultFSM\State\Attack">
+      <UniqueIdentifier>{baf7f278-7203-4e2a-904e-11a27f3bc29d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DefaultFSM\State\Death">
+      <UniqueIdentifier>{8b537041-6666-42eb-83cd-46b8bb16a0b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Round">
+      <UniqueIdentifier>{0280c122-edf1-4052-a210-dcc5a40af6c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Round\1">
+      <UniqueIdentifier>{e4254c26-7b8b-4ca0-b0f5-c9a1e6ce3615}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Round\2">
+      <UniqueIdentifier>{47f35b8e-24c1-4d18-ab3c-c6bfd3bb2f9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Round\3">
+      <UniqueIdentifier>{ce9424c2-1240-4823-9b98-469f472e919e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
